@@ -190,8 +190,9 @@ section {
   .picture-item {
     flex-direction: column;
   }
-}
-
-.pictures {
+  .pictures {
   width: auto;
 }
+
+}
+
